@@ -44,7 +44,6 @@ body {
         flex-direction: column-reverse;
     }
 
-    .top-buttons,
     .input-buttons,
     .input-degrees {
         flex-direction: column;
